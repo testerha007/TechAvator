@@ -27,8 +27,10 @@ public class Prime {
 				if (counter==1)
 				{
 					count_Prime=count_Prime+i+ " ";
+					
 				}
 			}
+		System.out.println("New Changes");
 		System.out.println("Prime number fro 1 to "+last_Number);
 		System.out.println(count_Prime);
 
