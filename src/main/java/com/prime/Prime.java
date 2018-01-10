@@ -31,6 +31,7 @@ public class Prime {
 				}
 			}
 		System.out.println("New Changes");
+		System.out.println("New Changes");
 		System.out.println("Prime number fro 1 to "+last_Number);
 		System.out.println(count_Prime);
 
